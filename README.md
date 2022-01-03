@@ -1,3 +1,5 @@
+### ミスったよ、これ Nuxt3 じゃないよ、なんなら Vue も 3 じゃないよ
+
 # nuxt3-test
 
 ## Build Setup
